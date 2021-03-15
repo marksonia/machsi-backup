@@ -1,4 +1,5 @@
 ## Introduction
+
 ![icon](https://user-images.githubusercontent.com/80721588/111232128-dd6c2800-85c0-11eb-8b4a-cafb286a14ca.png)
 
 Your open-source tool to backup your apps ... and their data
@@ -14,11 +15,15 @@ And here's the project's [FAQ](FAQ.md).
 
 A combination with your favourite sync solution (e.g. Syncthing, Nextcloud...)  keeping an encrypted copy of your apps and their data on your server or "stable" device could bring a lot of benefits and save you a lot of work while changing ROMs or just cleaning your mobile device.
 
+## Download
+
+
 ## Encryption
 
 If enabled the data backup will be encrypted with AES256 based on a password you can set in the settings, which you'll have to use when you want to restore the data. This way you can store your backups more securely, worrying less about their readability.
 
 ## Screenshots
+
 ![1haha](https://user-images.githubusercontent.com/80721588/111232190-fe347d80-85c0-11eb-94c5-c698a3202496.png)
 ![2](https://user-images.githubusercontent.com/80721588/111232198-fffe4100-85c0-11eb-8052-1fddd4ec41db.png)
 
