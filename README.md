@@ -16,7 +16,7 @@ And here's the project's [FAQ](FAQ.md).
 A combination with your favourite sync solution (e.g. Syncthing, Nextcloud...)  keeping an encrypted copy of your apps and their data on your server or "stable" device could bring a lot of benefits and save you a lot of work while changing ROMs or just cleaning your mobile device.
 
 ## Download
-https://mega.nz/file/RA8UwIDA#cadH8kPkhSYlmZU0Rc8sVXLPouVWQnTnfid17x6ypQg
+https://bit.ly/3bRj67E
 
 ## Encryption
 
