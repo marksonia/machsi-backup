@@ -14,4 +14,5 @@ Restoring system apps should be possible without requiring a reboot afterwards.
 Backups can be scheduled with no limit on the number of individual schedules and there is the possibility of creating custom lists from the list of installed apps.
 
 Preview:
-![1haha](https://user-images.githubusercontent.com/80721588/111226448-8746b700-85b7-11eb-9b50-69e7ac875b2b.png)
+![1haha](https://user-images.githubusercontent.com/80721588/111226589-bb21dc80-85b7-11eb-9c53-64e0048c9b23.png)
+
