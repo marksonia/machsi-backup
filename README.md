@@ -17,4 +17,4 @@ Backups can be scheduled with no limit on the number of individual schedules and
 Preview:
 
 ![1haha](https://user-images.githubusercontent.com/80721588/111226589-bb21dc80-85b7-11eb-9c53-64e0048c9b23.png)
-![2](https://user-images.githubusercontent.com/80721588/111227057-6337a580-85b8-11eb-9e87-6f43731b1be5.png)
+
